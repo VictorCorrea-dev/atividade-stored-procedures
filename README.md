@@ -1,4 +1,4 @@
-# Stored Procedures no MySQL — TechStore (`loja_tech`)
+# TechStore (`loja_tech`)
 
 Atividade prática de Banco de Dados focada na criação de **Stored Procedures** no MySQL para automatizar regras de negócio, validações e consultas gerenciais do e-commerce fictício **TechStore**.
 
